@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <div class="header-inner">
+        <div class="site-title">
+          <a href="{{ '/' | relative_url }}">Prakhar Misra</a>
+        </div>
+        <nav>
+          <a href="#about">About</a>
+          <a href="#research">Research</a>
+          <a href="#policy">Policy Work</a>
+          <a href="#projects">Projects</a>
+          <a href="#media">Media</a>
+          <a href="#writings">Other Writings</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>Prakhar Misra &middot; Johns Hopkins University SAIS &middot; <a href="mailto:pmisra@jhu.edu">pmisra@jhu.edu</a></p>
+    </footer>
+  </div>
+</body>
+</html>

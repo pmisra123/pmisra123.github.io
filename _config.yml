@@ -1,0 +1,18 @@
+title: Prakhar Misra
+description: Ph.D. Candidate in International Political Economy, Johns Hopkins University SAIS
+url: "https://prakharmisra.github.io"
+baseurl: ""
+
+author:
+  name: Prakhar Misra
+  email: pmisra@jhu.edu
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - README.md
