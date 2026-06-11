@@ -16,8 +16,8 @@ layout: default
     <p>I am a Research Assistant to <a href="https://www.sais-jhu.edu/directory/devesh-kapur">Professor Devesh Kapur</a> (on a development history book) and to <a href="https://www.sais-jhu.edu/directory/yuen-yuen-ang">Professor Yuen Yuen Ang</a> (on <em>The Polytunity Project</em>). Before the Ph.D., I was a policy researcher and a Teach for India Fellow, with research contributions to state committees, the Reserve Bank of India, and the World Bank's World Development Report 2025.</p>
     <div class="about-links">
       <a href="/files/cv.pdf">CV</a>
-      <a href="mailto:pmisra@jhu.edu">Email</a>
-      <a href="https://twitter.com/prakhar_misra_" target="_blank">Twitter/X</a>
+      <a href="mailto:prakhar23mj@gmail.com">Email</a>
+      <a href="https://twitter.com/PrakharMisra" target="_blank">Twitter/X</a>
       <a href="https://scholar.google.com/citations?user=your_id" target="_blank">Google Scholar</a>
     </div>
   </div>
@@ -356,8 +356,8 @@ layout: default
   1740 Massachusetts Ave NW, Washington, DC 20036</p>
   <br>
   <p>
-    Email: <a href="mailto:pmisra@jhu.edu">pmisra@jhu.edu</a><br>
-    Twitter/X: <a href="https://twitter.com/prakhar_misra_" target="_blank">@prakhar_misra_</a>
+    Email: <a href="mailto:prakhar23mj@gmail.com">prakhar23mj@gmail.com</a><br>
+    Twitter/X: <a href="https://twitter.com/PrakharMisra" target="_blank">@PrakharMisra</a>
   </p>
 </div>
 </section>
