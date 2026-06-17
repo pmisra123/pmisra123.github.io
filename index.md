@@ -173,7 +173,7 @@ layout: default
 <section class="section" id="media">
 <h2 class="section-heading">Media</h2>
 
-<p class="subsection-heading">Podcasts</p>
+<p class="subsection-podcasts">Podcasts</p>
 
 <div class="media-item">
   <span class="media-title"><a href="https://open.spotify.com/episode/4wCCLOwmK5x90LKjJaGqvV" target="_blank">आर्थिक सुधारों की राजनितिक पृष्ठभूमि (The Political Economy of 1991 Reforms)</a></span>
@@ -195,7 +195,7 @@ layout: default
   <div class="media-outlet">PuliyaBaazi, Ep. 61</div>
 </div>
 
-<p class="subsection-heading">Talks &amp; Panel Discussions</p>
+<p class="subsection-talks">Talks &amp; Panel Discussions</p>
 
 <div class="media-item">
   <span class="media-title"><a href="https://www.youtube.com/watch?v=4JdRwMU_gz0" target="_blank">Emergency Responses and Government Outcomes</a></span>

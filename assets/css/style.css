@@ -81,16 +81,16 @@ main {
   scroll-margin-top: 70px;
 }
 
-/* Top-level section heading — forest green accent, collapsible */
+/* ─── TOP-LEVEL SECTION HEADINGS ─── forest green, large enough to read */
 .section-heading {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.72em;
-  font-weight: 600;
-  letter-spacing: 0.12em;
+  font-size: 0.88em;
+  font-weight: 700;
+  letter-spacing: 0.10em;
   text-transform: uppercase;
   color: #1B4332;
-  border-bottom: 1px solid #c8dbd2;
-  padding-bottom: 7px;
+  border-bottom: 1.5px solid #a8cdb8;
+  padding-bottom: 8px;
   margin-bottom: 22px;
   cursor: pointer;
   user-select: none;
@@ -100,10 +100,10 @@ main {
 }
 
 .section-chevron {
-  font-size: 1.4em;
+  font-size: 1.2em;
   line-height: 1;
   letter-spacing: 0;
-  color: #2D5A3D;
+  color: #1B4332;
   flex-shrink: 0;
   margin-left: 8px;
   transition: transform 0.2s ease;
@@ -203,7 +203,7 @@ main {
   margin-right: 12px;
 }
 
-/* Compact paper item — Peer-Reviewed, Book Chapters, Policy Papers */
+/* Compact paper item */
 .paper-item--compact {
   margin-bottom: 13px;
   padding-bottom: 13px;
@@ -237,72 +237,83 @@ main {
   margin-top: 4px;
 }
 
-/* Subsection headings — Research hierarchy */
+/* ─── SUBSECTION HEADINGS ─── navy/slate palette, distinct from green */
 
-/* Working Papers: most prominent, green, no uppercase */
+/* Working Papers — dark navy, largest, no uppercase: most important */
 .subsection-wp {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.90em;
+  font-size: 0.93em;
   font-weight: 700;
-  color: #1B4332;
+  color: #1E3A5F;
   margin: 24px 0 16px;
-  padding-bottom: 6px;
-  border-bottom: 1.5px solid #c8dbd2;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #c5d5e8;
 }
 
-/* Peer-Reviewed Publications: medium, green-mid, uppercase */
+/* Peer-Reviewed Publications — medium navy, uppercase */
 .subsection-pub {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.78em;
+  font-size: 0.79em;
   font-weight: 600;
-  color: #2D5A3D;
+  color: #2C5282;
   margin: 30px 0 13px;
   text-transform: uppercase;
   letter-spacing: 0.07em;
 }
 
-/* Book Chapters: lightest, neutral gray, uppercase */
+/* Book Chapters — light slate, uppercase, least prominent */
 .subsection-chap {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.74em;
+  font-size: 0.75em;
   font-weight: 600;
-  color: #888;
+  color: #4A6991;
   margin: 30px 0 13px;
   text-transform: uppercase;
   letter-spacing: 0.07em;
 }
 
-/* Policy Papers subsection heading */
+/* Policy Papers — medium navy, uppercase */
 .subsection-policy-papers {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.78em;
+  font-size: 0.79em;
   font-weight: 600;
-  color: #2D5A3D;
+  color: #2C5282;
   margin: 0 0 14px;
   text-transform: uppercase;
   letter-spacing: 0.07em;
 }
 
-/* Policy Projects subsection heading */
+/* Policy Projects — light slate, uppercase */
 .subsection-policy-projects {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.74em;
+  font-size: 0.75em;
   font-weight: 600;
-  color: #888;
+  color: #4A6991;
   margin: 34px 0 14px;
   text-transform: uppercase;
   letter-spacing: 0.07em;
 }
 
-/* Generic subsection heading — used in Media, etc. */
-.subsection-heading {
+/* Podcasts — dark navy, heavier */
+.subsection-podcasts {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 0.82em;
-  font-weight: 600;
-  color: #555;
-  margin: 24px 0 14px;
+  font-weight: 700;
+  color: #1E3A5F;
+  margin: 0 0 14px;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.07em;
+}
+
+/* Talks & Panel Discussions — medium slate */
+.subsection-talks {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #4A6991;
+  margin: 26px 0 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
 }
 
 /* Projects / Policy Projects */
@@ -352,15 +363,15 @@ main {
   color: #555;
 }
 
-/* Writings table */
+/* ─── OTHER WRITINGS — year labels in dark navy ─── */
 .writings-year {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.82em;
-  font-weight: 600;
-  color: #888;
-  margin: 20px 0 8px;
+  font-size: 0.86em;
+  font-weight: 700;
+  color: #1E3A5F;
+  margin: 22px 0 8px;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.07em;
 }
 
 .writings-list {
@@ -427,7 +438,7 @@ footer a:hover {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 0.75em;
   background: #eaf2ee;
-  color: #2D5A3D;
+  color: #1B4332;
   padding: 1px 7px;
   border-radius: 10px;
   margin-left: 6px;
