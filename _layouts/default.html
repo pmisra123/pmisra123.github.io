@@ -18,7 +18,6 @@
           <a href="#about">About</a>
           <a href="#research">Research</a>
           <a href="#policy">Policy Work</a>
-          <a href="#projects">Projects</a>
           <a href="#media">Media</a>
           <a href="#writings">Other Writings</a>
           <a href="#contact">Contact</a>
@@ -34,5 +33,43 @@
       <p>Prakhar Misra &middot; Johns Hopkins University SAIS &middot; <a href="mailto:prakhar23mj@gmail.com">prakhar23mj@gmail.com</a></p>
     </footer>
   </div>
+
+  <script>
+  (function () {
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.section-heading').forEach(function (heading) {
+        var chevron = document.createElement('span');
+        chevron.className = 'section-chevron';
+        chevron.setAttribute('aria-hidden', 'true');
+        chevron.textContent = '▾';
+        heading.appendChild(chevron);
+        heading.setAttribute('role', 'button');
+        heading.setAttribute('tabindex', '0');
+
+        var section = heading.parentElement;
+        var body = document.createElement('div');
+        body.className = 'section-body';
+        var sibling = heading.nextElementSibling;
+        while (sibling) {
+          var next = sibling.nextElementSibling;
+          body.appendChild(sibling);
+          sibling = next;
+        }
+        section.appendChild(body);
+
+        function toggle() {
+          var isOpen = body.style.display !== 'none';
+          body.style.display = isOpen ? 'none' : '';
+          chevron.classList.toggle('is-collapsed', isOpen);
+        }
+
+        heading.addEventListener('click', toggle);
+        heading.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+        });
+      });
+    });
+  })();
+  </script>
 </body>
 </html>

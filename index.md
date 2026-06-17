@@ -29,7 +29,7 @@ layout: default
 <section class="section" id="research">
 <h2 class="section-heading">Research</h2>
 
-<p class="subsection-heading">Working Papers</p>
+<p class="subsection-wp">Working Papers</p>
 <ul class="paper-list">
   <li class="paper-item">
     <div class="paper-title">State-Building in Developing Countries: Challenges of Meritocratic Recruitment</div>
@@ -39,40 +39,35 @@ layout: default
   </li>
 </ul>
 
-<p class="subsection-heading">Peer-Reviewed Publications</p>
+<p class="subsection-pub">Peer-Reviewed Publications</p>
 <ul class="paper-list">
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">The Practice of Flexible Inflation Targeting in India — A Preliminary Assessment</div>
-    <div class="paper-authors">Niranjan Rajadhyaksha and Prakhar Misra</div>
-    <div class="paper-venue"><em>Indian Public Policy Review</em>, Vol. 2, No. 3 (2021)</div>
+    <div class="paper-authors">Niranjan Rajadhyaksha and Prakhar Misra</div><div class="paper-venue"><em>Indian Public Policy Review</em>, Vol. 2, No. 3 (2021)</div>
     <div class="paper-links"><a href="https://www.ippr.in/index.php/ippr/issue/view/6/6" target="_blank">Journal</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Grants from Centre and States' Fiscal Marksmanship</div>
-    <div class="paper-authors">Sharmadha Srinivasan and Prakhar Misra</div>
-    <div class="paper-venue"><em>Indian Public Policy Review</em>, Vol. 2, No. 1 (2021)</div>
+    <div class="paper-authors">Sharmadha Srinivasan and Prakhar Misra</div><div class="paper-venue"><em>Indian Public Policy Review</em>, Vol. 2, No. 1 (2021)</div>
     <div class="paper-links"><a href="https://ippr.in/index.php/ippr/issue/view/4/4" target="_blank">Journal</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Book Review: Phishing for Phools</div>
-    <div class="paper-authors">Prakhar Misra</div>
-    <div class="paper-venue"><em>St. Antony's International Review</em>, Vol. 13, No. 2 (2018)</div>
+    <div class="paper-authors">Prakhar Misra</div><div class="paper-venue"><em>St. Antony's International Review</em>, Vol. 13, No. 2 (2018)</div>
     <div class="paper-links"><a href="https://www.jstor.org/stable/26501055" target="_blank">JSTOR</a></div>
   </li>
 </ul>
 
-<p class="subsection-heading">Book Chapters</p>
+<p class="subsection-chap">Book Chapters</p>
 <ul class="paper-list">
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">India and the Rating Agencies</div>
-    <div class="paper-authors">Vivek Dehejia and Prakhar Misra</div>
-    <div class="paper-venue">In Bibek Debroy, Anirban Ganguly, and Kishore Desai (eds.), <em>Making of New India: Transformation Under Modi</em>. Wisdom Tree, 2018.</div>
+    <div class="paper-authors">Vivek Dehejia and Prakhar Misra</div><div class="paper-venue">In Bibek Debroy, Anirban Ganguly, and Kishore Desai (eds.), <em>Making of New India: Transformation Under Modi</em>. Wisdom Tree, 2018.</div>
     <div class="paper-links"><a href="https://www.amazon.in/Making-New-India-Transformation-Government/dp/8183285317" target="_blank">Amazon</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Liberalism in India: The Lucifer Effect</div>
-    <div class="paper-authors">Prakhar Misra</div>
-    <div class="paper-venue">In Ronald Meinardus (ed.), <em>What does it Mean to be a Liberal in India</em>. Academic Foundation, 2016.</div>
+    <div class="paper-authors">Prakhar Misra</div><div class="paper-venue">In Ronald Meinardus (ed.), <em>What does it Mean to be a Liberal in India</em>. Academic Foundation, 2016.</div>
     <div class="paper-links"><a href="https://www.amazon.in/What-Does-Mean-Liberal-India/dp/9332703779" target="_blank">Amazon</a></div>
   </li>
 </ul>
@@ -83,92 +78,76 @@ layout: default
 <section class="section" id="policy">
 <h2 class="section-heading">Policy Work</h2>
 
+<p class="subsection-policy-papers">Policy Papers</p>
 <ul class="paper-list">
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Box 7.4: The Administrative Costs of Implementing a Recruitment Standard in India</div>
-    <div class="paper-authors">Prakhar Misra</div>
-    <div class="paper-venue"><em>World Development Report 2025: Standards for Development</em>. World Bank, 2025.</div>
+    <div class="paper-authors">Prakhar Misra</div><div class="paper-venue"><em>World Development Report 2025: Standards for Development</em>. World Bank, 2025.</div>
     <div class="paper-links"><a href="https://www.worldbank.org/en/publication/wdr2025" target="_blank">World Bank</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Parallel Streams: Political Federalism and Economic Integration in India</div>
-    <div class="paper-authors">Niranjan Rajadhyaksha and Prakhar Misra</div>
-    <div class="paper-venue">State Capacity Initiative Working Paper No. 2023-7. Centre for Policy Research and Carnegie Endowment for International Peace, 2023.</div>
+    <div class="paper-authors">Niranjan Rajadhyaksha and Prakhar Misra</div><div class="paper-venue">State Capacity Initiative Working Paper No. 2023-7. Centre for Policy Research and Carnegie Endowment for International Peace, 2023.</div>
     <div class="paper-links"><a href="https://cprindia.org/wp-content/uploads/2023/03/Rajadhyaksha-and-Misra_Political-Federalism-and-Economic-Integration-in-India_Cooperative-Federalism-SCI-WP-2023-7.pdf" target="_blank">PDF</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Interoperability of Social Media Platforms: An Appraisal of the Regulatory and Technical Ecosystem</div>
-    <div class="paper-authors">Rishabh Bailey and Prakhar Misra</div>
-    <div class="paper-venue">Landscape Study for IT for Change, 2022.</div>
+    <div class="paper-authors">Rishabh Bailey and Prakhar Misra</div><div class="paper-venue">Landscape Study for IT for Change, 2022.</div>
     <div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095312" target="_blank">SSRN</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Financing Models of Digital Ecosystems</div>
-    <div class="paper-authors">Rahul Matthan, Prakhar Misra, and Harshita Agrawal</div>
-    <div class="paper-venue">Data Governance Network Working Paper 22, 2021.</div>
+    <div class="paper-authors">Rahul Matthan, Prakhar Misra, and Harshita Agrawal</div><div class="paper-venue">Data Governance Network Working Paper 22, 2021.</div>
     <div class="paper-links"><a href="https://datagovernance.org/report/financing-models-for-digital-ecosystems" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Facial Recognition Technologies and the Regulatory Frameworks in India</div>
-    <div class="paper-authors">Priya Vedavalli, Prakhar Misra, Tvesha Sippy, Avanti Durani, Neha Sinha, and Vikram Sinha</div>
-    <div class="paper-venue">Data Governance Network Working Paper 16, 2021.</div>
+    <div class="paper-authors">Priya Vedavalli, Prakhar Misra, Tvesha Sippy, Avanti Durani, Neha Sinha, and Vikram Sinha</div><div class="paper-venue">Data Governance Network Working Paper 16, 2021.</div>
     <div class="paper-links"><a href="https://datagovernance.org/report/facial-recognition-technology-in-law-enforcement-in-india-concerns-and-solutions" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Developing Infrastructure to Create Employment: Case Study — Water Provisioning in Punjab</div>
-    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, Sharmadha Srinivasan, and Vaidehi Tandel</div>
-    <div class="paper-venue">IDFC Institute, 2021.</div>
+    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, Sharmadha Srinivasan, and Vaidehi Tandel</div><div class="paper-venue">IDFC Institute, 2021.</div>
     <div class="paper-links"><a href="https://idfcinstitute.org/knowledge/publications/working-and-briefing-papers/case-study-water-provisioning-in-punjab/" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Balancing Privacy for Technology Use: Lessons from COVID-19</div>
-    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, and Ananth Padmanabhan</div>
-    <div class="paper-venue">Background Paper for Digital Pathways, University of Oxford, 2020.</div>
+    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, and Ananth Padmanabhan</div><div class="paper-venue">Background Paper for Digital Pathways, University of Oxford, 2020.</div>
     <div class="paper-links"><a href="https://pathwayscommission.bsg.ox.ac.uk/Balancing-privacy-with-technology-use-Lessons-from-Covid-19" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Privacy in Healthcare: The Role of National Digital Health Blueprint</div>
-    <div class="paper-authors">Alexander Fager and Prakhar Misra</div>
-    <div class="paper-venue">Data Governance Network Working Paper, 2020.</div>
+    <div class="paper-authors">Alexander Fager and Prakhar Misra</div><div class="paper-venue">Data Governance Network Working Paper, 2020.</div>
     <div class="paper-links"><a href="https://datagovernance.org/report/privacy-in-healthcare-the-role-of-national-digital-health-blueprint" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">PM Garib Kalyan Yojana: Coverage, Identification, and Implementation</div>
-    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, Sneha Menon, Tvesha Sippy, Vaidehi Tandel, and Priya Vedavalli</div>
-    <div class="paper-venue">White Paper for the World Bank, 2020.</div>
+    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, Sneha Menon, Tvesha Sippy, Vaidehi Tandel, and Priya Vedavalli</div><div class="paper-venue">White Paper for the World Bank, 2020.</div>
     <div class="paper-links"><a href="https://idfcinstitute.org/knowledge/publications/working-and-briefing-papers/pm-garib-kalyan-yojana-coverage-identification-and-implementation/" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Integrating Aadhaar and Voter ID: Promises and Dangers</div>
-    <div class="paper-authors">Vibhav Mariwala and Prakhar Misra</div>
-    <div class="paper-venue">Data Governance Network Briefing Note, 2020.</div>
+    <div class="paper-authors">Vibhav Mariwala and Prakhar Misra</div><div class="paper-venue">Data Governance Network Briefing Note, 2020.</div>
     <div class="paper-links"><a href="https://datagovernance.org/report/integrating-aadhaar-and-voter-id-data-promises-and-dangers" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Fiscal Modernisation: Lessons for India from the World</div>
-    <div class="paper-authors">Prakhar Misra and Sharmadha Srinivasan</div>
-    <div class="paper-venue">IDFC Institute Working Paper, 2019.</div>
+    <div class="paper-authors">Prakhar Misra and Sharmadha Srinivasan</div><div class="paper-venue">IDFC Institute Working Paper, 2019.</div>
     <div class="paper-links"><a href="https://idfcinstitute.org/knowledge/publications/working-and-briefing-papers/fiscal-modernisation-lessons-for-india-from-the-world/" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Lessons from Aadhaar: Analog Aspects of Digital Governance Shouldn't Be Overlooked</div>
-    <div class="paper-authors">Prakhar Misra</div>
-    <div class="paper-venue">Pathways for Prosperity Commission Background Paper Series, University of Oxford, 2019.</div>
+    <div class="paper-authors">Prakhar Misra</div><div class="paper-venue">Pathways for Prosperity Commission Background Paper Series, University of Oxford, 2019.</div>
     <div class="paper-links"><a href="https://pathwayscommission.bsg.ox.ac.uk/Prakhar-Misra-paper" target="_blank">Link</a></div>
   </li>
-  <li class="paper-item">
+  <li class="paper-item paper-item--compact">
     <div class="paper-title">Infrastructure Priorities for Job Creation in India</div>
-    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, Sharmadha Srinivasan, and Vaidehi Tandel</div>
-    <div class="paper-venue">Research Report for Ford Foundation, 2019.</div>
+    <div class="paper-authors">Harshita Agrawal, Prakhar Misra, Sharmadha Srinivasan, and Vaidehi Tandel</div><div class="paper-venue">Research Report for Ford Foundation, 2019.</div>
     <div class="paper-links"><a href="https://idfcinstitute.org/knowledge/publications/reports/infrastructure-priorities-for-job-creation-in-india/" target="_blank">Link</a></div>
   </li>
 </ul>
-</section>
 
----
-
-<section class="section" id="projects">
-<h2 class="section-heading">Projects</h2>
+<p class="subsection-policy-projects">Policy Projects</p>
 
 <div class="project-item">
   <div class="project-name">The 1991 Project</div>
@@ -319,12 +298,12 @@ layout: default
 <div class="writings-year">2017</div>
 <ul class="writings-list">
   <li>"Who will Teach the Teachers" &mdash; <span class="outlet">Pragati, November 2017</span></li>
+  <li>"Swachh Bharat Abhiyaan: successful yet unsuccessful" &mdash; <span class="outlet">News Laundry, December 2017</span></li>
   <li>"Jan Dhan Yojana: An Intriguing Work in Progress" &mdash; <span class="outlet">The Hindu (thRead), September 2017</span></li>
   <li>"Handle with Care" &mdash; <span class="outlet">Pragati, September 2017</span></li>
   <li>"Swachh Bharat Abhiyaan: An Ineffective Remedy" &mdash; <span class="outlet">Oxford Policy Blog, May 2017</span></li>
   <li>"Why don't we See Wrestlers from Tamil Nadu or Runners from Bihar and Haryana" &mdash; <span class="outlet">FirstPost, April 2017</span></li>
   <li>"Is India Growing?" &mdash; <span class="outlet">Swarajya, March 2017</span></li>
-  <li>"Swachh Bharat Abhiyaan: successful yet unsuccessful" &mdash; <span class="outlet">News Laundry, December 2017</span></li>
 </ul>
 
 <div class="writings-year">2016</div>
@@ -338,7 +317,7 @@ layout: default
 <div class="writings-year">2015</div>
 <ul class="writings-list">
   <li>"More Than Education" &mdash; <span class="outlet">Huffington Post, October 2015</span></li>
-  <li>"Explaining Transaction Costs" &mdash; <span class="outlet">Logos — The National Interest, May 2015</span></li>
+  <li>"Explaining Transaction Costs" &mdash; <span class="outlet">Logos &mdash; The National Interest, May 2015</span></li>
 </ul>
 
 <p style="margin-top: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 0.85em; color: #666;">
