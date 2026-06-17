@@ -20,6 +20,17 @@ body {
   padding: 0 28px;
 }
 
+/* ── Links: Ashoka Chakra navy blue ── */
+a {
+  color: #000080 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #138808 !important;
+  text-decoration: underline;
+}
+
 /* Header */
 header {
   position: sticky;
@@ -42,12 +53,12 @@ header {
   font-size: 1.15em;
   font-weight: bold;
   letter-spacing: -0.01em;
-  color: #111;
+  color: #111 !important;
   text-decoration: none;
 }
 
 .site-title a:hover {
-  color: #1B4332;
+  color: #138808 !important;
 }
 
 nav {
@@ -60,17 +71,17 @@ nav a {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 0.82em;
   padding: 2px 8px;
-  color: #555;
+  color: #555 !important;
   text-decoration: none;
   border-radius: 2px;
   transition: color 0.15s;
 }
 
 nav a:hover {
-  color: #1B4332;
+  color: #138808 !important;
 }
 
-/* Main content */
+/* Main */
 main {
   padding: 40px 0 20px;
 }
@@ -81,15 +92,19 @@ main {
   scroll-margin-top: 70px;
 }
 
-/* ─── TOP-LEVEL SECTION HEADINGS ─── forest green, large enough to read */
+/* ══════════════════════════════════════════════
+   TOP-LEVEL SECTION HEADINGS — India flag GREEN
+   (About, Research, Policy Work, Media,
+    Other Writings, Contact)
+   ══════════════════════════════════════════════ */
 .section-heading {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.88em;
+  font-size: 0.90em;
   font-weight: 700;
   letter-spacing: 0.10em;
   text-transform: uppercase;
-  color: #1B4332;
-  border-bottom: 1.5px solid #a8cdb8;
+  color: #138808 !important;
+  border-bottom: 2px solid #138808;
   padding-bottom: 8px;
   margin-bottom: 22px;
   cursor: pointer;
@@ -103,7 +118,7 @@ main {
   font-size: 1.2em;
   line-height: 1;
   letter-spacing: 0;
-  color: #1B4332;
+  color: #138808 !important;
   flex-shrink: 0;
   margin-left: 8px;
   transition: transform 0.2s ease;
@@ -118,7 +133,7 @@ main {
   overflow: hidden;
 }
 
-/* About section */
+/* About */
 .about-grid {
   display: flex;
   gap: 32px;
@@ -203,7 +218,7 @@ main {
   margin-right: 12px;
 }
 
-/* Compact paper item */
+/* Compact paper row */
 .paper-item--compact {
   margin-bottom: 13px;
   padding-bottom: 13px;
@@ -237,86 +252,38 @@ main {
   margin-top: 4px;
 }
 
-/* ─── SUBSECTION HEADINGS ─── navy/slate palette, distinct from green */
-
-/* Working Papers — dark navy, largest, no uppercase: most important */
-.subsection-wp {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.93em;
-  font-weight: 700;
-  color: #1E3A5F;
-  margin: 24px 0 16px;
-  padding-bottom: 5px;
-  border-bottom: 1px solid #c5d5e8;
-}
-
-/* Peer-Reviewed Publications — medium navy, uppercase */
-.subsection-pub {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.79em;
-  font-weight: 600;
-  color: #2C5282;
-  margin: 30px 0 13px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-}
-
-/* Book Chapters — light slate, uppercase, least prominent */
-.subsection-chap {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.75em;
-  font-weight: 600;
-  color: #4A6991;
-  margin: 30px 0 13px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-}
-
-/* Policy Papers — medium navy, uppercase */
-.subsection-policy-papers {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.79em;
-  font-weight: 600;
-  color: #2C5282;
-  margin: 0 0 14px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-}
-
-/* Policy Projects — light slate, uppercase */
-.subsection-policy-projects {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.75em;
-  font-weight: 600;
-  color: #4A6991;
-  margin: 34px 0 14px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-}
-
-/* Podcasts — dark navy, heavier */
-.subsection-podcasts {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.82em;
-  font-weight: 700;
-  color: #1E3A5F;
-  margin: 0 0 14px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-}
-
-/* Talks & Panel Discussions — medium slate */
-.subsection-talks {
+/* ══════════════════════════════════════════════
+   SUBSECTION LABELS — India flag SAFFRON/ORANGE
+   All use the same font (Talks & Panel
+   Discussions style: 600 weight, uppercase)
+   ══════════════════════════════════════════════ */
+.subsection-wp,
+.subsection-pub,
+.subsection-chap,
+.subsection-policy-papers,
+.subsection-policy-projects,
+.subsection-podcasts,
+.subsection-talks,
+.writings-year {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 0.78em;
   font-weight: 600;
-  color: #4A6991;
-  margin: 26px 0 14px;
+  color: #FF9933 !important;
   text-transform: uppercase;
   letter-spacing: 0.07em;
 }
 
-/* Projects / Policy Projects */
+/* Individual margins */
+.subsection-wp        { margin: 24px 0 16px; }
+.subsection-pub       { margin: 30px 0 13px; }
+.subsection-chap      { margin: 30px 0 13px; }
+.subsection-policy-papers   { margin: 0 0 14px; }
+.subsection-policy-projects { margin: 34px 0 14px; }
+.subsection-podcasts  { margin: 0 0 14px; }
+.subsection-talks     { margin: 26px 0 14px; }
+.writings-year        { margin: 22px 0 8px; }
+
+/* Projects */
 .project-item {
   margin-bottom: 24px;
   padding-bottom: 24px;
@@ -363,17 +330,7 @@ main {
   color: #555;
 }
 
-/* ─── OTHER WRITINGS — year labels in dark navy ─── */
-.writings-year {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.86em;
-  font-weight: 700;
-  color: #1E3A5F;
-  margin: 22px 0 8px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-}
-
+/* Other Writings list */
 .writings-list {
   list-style: none;
 }
@@ -381,7 +338,6 @@ main {
 .writings-list li {
   font-size: 0.92em;
   margin-bottom: 6px;
-  padding-left: 0;
   line-height: 1.5;
 }
 
@@ -398,21 +354,6 @@ main {
   line-height: 2;
 }
 
-.contact-info a {
-  color: #1a1a9e;
-}
-
-/* Links */
-a {
-  color: #1a1a9e;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #1B4332;
-  text-decoration: underline;
-}
-
 /* Footer */
 footer {
   border-top: 1px solid #e8e8e8;
@@ -424,21 +365,21 @@ footer {
 }
 
 footer a {
-  color: #aaa;
+  color: #aaa !important;
 }
 
 footer a:hover {
-  color: #1B4332;
+  color: #138808 !important;
   text-decoration: underline;
 }
 
-/* Tag/label pill */
+/* Tag pill */
 .tag {
   display: inline-block;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 0.75em;
-  background: #eaf2ee;
-  color: #1B4332;
+  background: #fff3e0;
+  color: #FF9933 !important;
   padding: 1px 7px;
   border-radius: 10px;
   margin-left: 6px;
@@ -462,6 +403,5 @@ footer a:hover {
   }
   nav a {
     padding: 3px 6px 3px 0;
-    margin: 0;
   }
 }
