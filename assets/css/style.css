@@ -140,6 +140,18 @@ main {
   align-items: flex-start;
 }
 
+/* Tricolor border: saffron → white → green, top to bottom */
+.about-photo {
+  background: linear-gradient(to bottom,
+    #FF9933 0%, #FF9933 33.33%,
+    #ffffff 33.33%, #ffffff 66.67%,
+    #138808 66.67%, #138808 100%);
+  padding: 4px;
+  border-radius: 5px;
+  display: inline-block;
+  line-height: 0;
+}
+
 .about-photo img {
   width: 170px;
   border-radius: 3px;

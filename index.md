@@ -332,7 +332,7 @@ layout: default
 <div class="contact-info">
   <p>School of Advanced International Studies<br>
   Johns Hopkins University<br>
-  1740 Massachusetts Ave NW, Washington, DC 20036</p>
+  555 Pennsylvania Avenue NW, Washington, DC 20001</p>
   <br>
   <p>
     Email: <a href="mailto:prakhar23mj@gmail.com">prakhar23mj@gmail.com</a><br>
