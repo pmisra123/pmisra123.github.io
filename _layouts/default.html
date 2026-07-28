@@ -5,6 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y5JYB9ZE2Z"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Y5JYB9ZE2Z');
+  </script>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=20260618">
 </head>
 <body>
