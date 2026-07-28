@@ -41,6 +41,11 @@ layout: default
     <div class="paper-coauthor">(with <a href="https://anustubhagnihotri.com" target="_blank">Anustubh Agnihotri</a>)</div>
     <div class="paper-desc">How does bureaucratic selection shape public service delivery? Comparing directly recruited and promoted mid-level bureaucrats in Odisha, India, we find no difference in delivery outcomes between the two groups, despite very different entry pathways. We argue this null is theoretically informative: it reflects the importance of interaction-made traits — capabilities produced through organizational environments and on-the-job socialization — over selection-made traits certified at entry. Meritocratic selection insulates appointments from patronage but cannot generate the organizational capacities that last-mile implementation requires. The findings speak to civil service reform debates across the developing world.</div>
   </li>
+  <li class="paper-item paper-item--compact">
+    <div class="paper-title">Law, Labor, and Language Models: Empirical Insights into Recruitment Litigation and State-Building in India</div>
+    <div class="paper-coauthor">(with <a href="https://www.soumyajitdatta.com/" target="_blank">Soumyajit Dutta</a> and <a href="https://www.rit.edu/directory/axkvse-ashique-khudabukhsh" target="_blank">Ashique Khudabaksh</a>)</div>
+    <div class="paper-desc">This paper offers a large-scale, data-driven analysis of how recruitment-related litigation shapes state capacity in India's bureaucracy — an issue central to governance yet chronically understudied. Leveraging a novel dataset of High Court judgments and a robust annotation pipeline combining multiple large language models and expert audits, we empirically dissect the scale, causes, and outcomes of service law disputes across two decades in Uttar Pradesh, India. Our findings uncover that litigation, especially in the education sector, worsens bureaucratic vacancies, but is only one layer within deeper institutional dysfunction. We also present evidence on the shift of High Courts towards substantive justice and the effect of contemporary policy debates on litigation filings. Our approach forges new pathways in both empirical public administration and the use of LLMs on massive legal corpora.</div>
+  </li>
 </ul>
 
 <p class="subsection-pub">Peer-Reviewed Publications</p>
