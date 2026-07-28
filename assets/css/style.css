@@ -264,6 +264,14 @@ main {
   margin-top: 4px;
 }
 
+/* Co-author credit on working papers — gray like compact authors, link stays blue */
+.paper-coauthor {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.84em;
+  color: #666;
+  margin-top: 2px;
+}
+
 /* ══════════════════════════════════════════════
    SUBSECTION LABELS — India flag SAFFRON/ORANGE
    All use the same font (Talks & Panel
