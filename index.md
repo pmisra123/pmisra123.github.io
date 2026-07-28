@@ -15,7 +15,7 @@ layout: default
     <p>Additionally, I am a research assistant for Professor Devesh Kapur having worked on <a href="https://www.amazon.in/Sixth-Humanity-Independent-Development-Financial/dp/9369891099" target="_blank">A Sixth of Humanity: Independent India's Development Odyssey</a>; and for Professor Yuen Yuen Ang working on <a href="https://polytunity.substack.com/" target="_blank">The Polytunity Project</a> at SNF Agora Institute.</p>
     <p>Before the Ph.D., I was a policy researcher with research contributions and citations appearing in government reports of state-level committees, reports of the Reserve Bank of India, and most recently — the World Bank's World Development Report 2025. I was also a Teach for India Fellow, teaching children from low-income communities in Delhi and Mumbai.</p>
     <div class="about-links">
-      <a href="/files/cv.pdf">CV</a>
+      <a href="https://www.dropbox.com/scl/fi/93k3dt3yrhcxamxaepcni/Academic-Curriculum-Vitae_Prakhar-Misra.pdf?rlkey=7yq6y2ed3yg2axfsd1qv1jlav&raw=1" target="_blank">CV</a>
       <a href="mailto:prakhar23mj@gmail.com">Email</a>
       <a href="https://twitter.com/PrakharMisra" target="_blank">Twitter/X</a>
       <a href="https://scholar.google.com/citations?user=RzOX-w0AAAAJ" target="_blank">Google Scholar</a>
