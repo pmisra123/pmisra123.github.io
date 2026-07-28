@@ -33,13 +33,12 @@ layout: default
 <ul class="paper-list">
   <li class="paper-item">
     <div class="paper-title">State-Building in Developing Countries: Challenges of Meritocratic Recruitment</div>
-    <div class="paper-authors">Prakhar Misra</div>
     <div class="paper-venue">Working Paper</div>
     <div class="paper-desc">This paper examines the paradox of civil service recruitment in India: a vast labor supply and high demand for government jobs coexist with persistent vacancies and institutional bottlenecks. I argue that meritocratic recruitment processes themselves can entrench a patronage state, and document a systematic shift from permanent civil service positions toward contractual employment.</div>
   </li>
   <li class="paper-item">
     <div class="paper-title">"A new broom sweeps clean, but an old broom knows the corners": Direct vs Promoted Bureaucrats and Public Service Delivery</div>
-    <div class="paper-authors">Prakhar Misra and <a href="https://anustubhagnihotri.com" target="_blank">Anustubh Agnihotri</a></div>
+    <div class="paper-authors">(with <a href="https://anustubhagnihotri.com" target="_blank">Anustubh Agnihotri</a>)</div>
     <div class="paper-venue">Working Paper</div>
     <div class="paper-desc">How does bureaucratic selection shape public service delivery? Comparing directly recruited and promoted mid-level bureaucrats in Odisha, India, we find no difference in delivery outcomes between the two groups, despite very different entry pathways. We argue this null is theoretically informative: it reflects the importance of interaction-made traits — capabilities produced through organizational environments and on-the-job socialization — over selection-made traits certified at entry. Meritocratic selection insulates appointments from patronage but cannot generate the organizational capacities that last-mile implementation requires. The findings speak to civil service reform debates across the developing world.</div>
   </li>
