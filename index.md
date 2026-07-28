@@ -18,7 +18,8 @@ layout: default
       <a href="/files/cv.pdf">CV</a>
       <a href="mailto:prakhar23mj@gmail.com">Email</a>
       <a href="https://twitter.com/PrakharMisra" target="_blank">Twitter/X</a>
-      <a href="https://scholar.google.com/citations?user=your_id" target="_blank">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=RzOX-w0AAAAJ" target="_blank">Google Scholar</a>
+      <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5213600" target="_blank">SSRN</a>
     </div>
   </div>
 </div>
