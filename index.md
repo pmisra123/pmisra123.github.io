@@ -236,6 +236,11 @@ layout: default
 <section class="section" id="writings">
 <h2 class="section-heading">Other Writings</h2>
 
+<div class="writings-year">2026</div>
+<ul class="writings-list">
+  <li><a href="https://www.deccanherald.com/india/meghalaya/meghalayas-blueprint-for-governance-how-reforms-and-bureaucratic-capability-drive-real-results-4080962" target="_blank">"Meghalaya's Blueprint for Governance: How Reforms and Bureaucratic Capability Drive Real Results"</a> (with Sampath Kumar) &mdash; <span class="outlet">Deccan Herald, 2026</span></li>
+</ul>
+
 <div class="writings-year">2025</div>
 <ul class="writings-list">
   <li>"Meghnad Desai: The View from Classroom" &mdash; <span class="outlet">Hindustan Times, August 2025</span></li>
