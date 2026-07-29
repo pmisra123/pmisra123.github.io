@@ -249,7 +249,7 @@ layout: default
 
 <div class="writings-year">2025</div>
 <ul class="writings-list">
-  <li>"Meghnad Desai: The View from Classroom" &mdash; <span class="outlet">Hindustan Times, August 2025</span></li>
+  <li><a href="https://www.hindustantimes.com/opinion/meghnad-desai-the-view-from-classroom-101754320451311.html" target="_blank">"Meghnad Desai: The View from Classroom"</a> (with Ayush Patel) &mdash; <span class="outlet">Hindustan Times, August 2025</span></li>
 </ul>
 
 <div class="writings-year">2023</div>
@@ -259,53 +259,53 @@ layout: default
 
 <div class="writings-year">2022</div>
 <ul class="writings-list">
-  <li>"Who should finance digital ecosystems?" &mdash; <span class="outlet">Hindustan Times, March 2022</span></li>
-  <li>"New Volleyball League Heralds Change in Indian Sports Landscape" &mdash; <span class="outlet">The India Cable, March 2022</span></li>
-  <li>"Digital Ecosystems: Who should Finance What?" &mdash; <span class="outlet">Hindustan Times, February 2022</span></li>
-  <li>"Aadhaar Link Threatens Sanctity of Electoral Rolls" &mdash; <span class="outlet">The Wire, January 2022</span></li>
-  <li>"Towards Fuller Capital Convertibility" &mdash; <span class="outlet">Financial Express, January 2022</span></li>
+  <li><a href="https://www.hindustantimes.com/opinion/who-should-finance-digital-ecosystems-101647956857781.html" target="_blank">"Who should finance digital ecosystems?"</a> (with Rahul Matthan) &mdash; <span class="outlet">Hindustan Times, March 2022</span></li>
+  <li>"New Volleyball League Heralds Change in Indian Sports Landscape" (with MB Ashwin) &mdash; <span class="outlet">The India Cable, March 2022</span></li>
+  <li><a href="https://www.hindustantimes.com/opinion/digital-ecosystems-who-should-finance-what-101645453920893.html" target="_blank">"Digital Ecosystems: Who should Finance What?"</a> (with Rahul Matthan) &mdash; <span class="outlet">Hindustan Times, February 2022</span></li>
+  <li><a href="https://thewire.in/government/election-laws-amendment-act-threatens-sanctity-of-electoral-rolls" target="_blank">"Aadhaar Link Threatens Sanctity of Electoral Rolls"</a> (with Vibhav Mariwala) &mdash; <span class="outlet">The Wire, January 2022</span></li>
+  <li><a href="https://the1991project.com/writing/op-eds/towards-fuller-capital-convertibility" target="_blank">"Towards Fuller Capital Convertibility"</a> (with Rahul Bajoria) &mdash; <span class="outlet">Financial Express, January 2022</span></li>
 </ul>
 
 <div class="writings-year">2021</div>
 <ul class="writings-list">
-  <li>"The Economic Reforms of 1991: How India went from Crisis to Consensus" &mdash; <span class="outlet">The 1991 Project, July 2021</span></li>
-  <li>"Why Linking Aadhaar with Voter ID is a Dangerous Idea" &mdash; <span class="outlet">The Indian Express, July 2021</span></li>
-  <li>"Revise Judges Appointments to build Judicial Capacity" &mdash; <span class="outlet">The Indian Express, April 2021</span></li>
+  <li><a href="https://the1991project.com/writing/essays/economic-reforms-1991-how-india-went-crisis-consensus" target="_blank">"The Economic Reforms of 1991: How India went from Crisis to Consensus"</a> (with Shreyas Narla) &mdash; <span class="outlet">The 1991 Project, July 2021</span></li>
+  <li><a href="https://indianexpress.com/article/opinion/columns/linking-aadhaar-card-voter-id-7399406/" target="_blank">"Why Linking Aadhaar with Voter ID is a Dangerous Idea"</a> (with Vibhav Mariwala) &mdash; <span class="outlet">The Indian Express, July 2021</span></li>
+  <li><a href="https://indianexpress.com/article/opinion/web-edits/revise-judges-appointment-process-to-build-judicial-capacity-7281976/" target="_blank">"Revise Judges Appointments to build Judicial Capacity"</a> (with Shreyas Narla) &mdash; <span class="outlet">The Indian Express, April 2021</span></li>
   <li>"Financing Institutions is crucial for the Digital Economy" &mdash; <span class="outlet">Data Governance Network Blog, February 2021</span></li>
-  <li>"Digitisation can help streamline government audits" &mdash; <span class="outlet">Financial Express, January 2021</span></li>
+  <li>"Digitisation can help streamline government audits" (with Vibhav Mariwala) &mdash; <span class="outlet">Financial Express, January 2021</span></li>
 </ul>
 
 <div class="writings-year">2020</div>
 <ul class="writings-list">
   <li>"On Digital Governance, Don't Repeat Mistakes" &mdash; <span class="outlet">Hindustan Times, October 2020</span></li>
-  <li>"Community Data: More a River Than a Lake" &mdash; <span class="outlet">Financial Express, August 2020</span></li>
-  <li>"Urgent CSS reforms Needed" &mdash; <span class="outlet">Financial Express, June 2020</span></li>
+  <li>"Community Data: More a River Than a Lake" (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, August 2020</span></li>
+  <li>"Urgent CSS reforms Needed" (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, June 2020</span></li>
   <li>"Let the Economy Open. Don't Micromanage Lockdown Exit" &mdash; <span class="outlet">Times of India, May 2020</span></li>
-  <li>"RWAs play a crucial Role in deploying Community Testing" &mdash; <span class="outlet">FirstPost, May 2020</span></li>
-  <li>"Relax FRBM Norms for States to Fight COVID-19" &mdash; <span class="outlet">Financial Express, May 2020</span></li>
-  <li>"Importance of Street Level Bureaucracy to Fight the Pandemic" &mdash; <span class="outlet">Money Control, April 2020</span></li>
+  <li>"RWAs play a crucial Role in deploying Community Testing" (with Vaidehi Tandel) &mdash; <span class="outlet">FirstPost, May 2020</span></li>
+  <li><a href="https://www.idfcinstitute.org/knowledge/publications/op-eds/relax-frbm-target-for-states-to-fight-covid-19/" target="_blank">"Relax FRBM Norms for States to Fight COVID-19"</a> (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, May 2020</span></li>
+  <li>"Importance of Street Level Bureaucracy to Fight the Pandemic" (with Kadambari Shah) &mdash; <span class="outlet">Money Control, April 2020</span></li>
   <li>"An Income Support Plan for the Poor to Tide over Testing Times" &mdash; <span class="outlet">Mint, March 2020</span></li>
   <li>"Budget 2020: Reform Income Tax to Build Fiscal Capacity" &mdash; <span class="outlet">Money Control, January 2020</span></li>
-  <li>"Ayushman Bharat can be a Success if Modi Government incentivises Data Use" &mdash; <span class="outlet">The Print, January 2020</span></li>
+  <li><a href="https://theprint.in/opinion/ayushman-bharat-can-be-a-success-if-modi-govt-incentivises-digital-data-for-private-players/353827/" target="_blank">"Ayushman Bharat can be a Success if Modi Government incentivises Data Use"</a> (with Alexander Fager) &mdash; <span class="outlet">The Print, January 2020</span></li>
   <li>"Keep up with Tech and Regulate Whatsapp and Amazon" &mdash; <span class="outlet">The Print, January 2020</span></li>
 </ul>
 
 <div class="writings-year">2019</div>
 <ul class="writings-list">
-  <li>"Creating Jobs through Infrastructure Investments" &mdash; <span class="outlet">Business Standard, September 2019</span></li>
+  <li><a href="https://www.business-standard.com/article/opinion/creating-jobs-with-infrastructure-investment-119100100018_1.html" target="_blank">"Creating Jobs through Infrastructure Investments"</a> (with Harshita Agrawal) &mdash; <span class="outlet">Business Standard, September 2019</span></li>
   <li>"India should take Advantage of the US-China Trade-war" &mdash; <span class="outlet">Mint, September 2019</span></li>
   <li>"The Potential of Moving the National Capital" &mdash; <span class="outlet">Money Control, May 2019</span></li>
   <li>"Indian Democracy Must Be More Representative" &mdash; <span class="outlet">Hindustan Times, April 2019</span></li>
-  <li>"Unfulfilled Political Promises Weaken the Spirit of Democracy" &mdash; <span class="outlet">The Wire, April 2019</span></li>
-  <li>"Narendra Modi led government made some radical reforms but lost out on dynamic change" &mdash; <span class="outlet">Firstpost, February 2019</span></li>
+  <li><a href="https://thewire.in/politics/election-2019-party-manifestos" target="_blank">"Unfulfilled Political Promises Weaken the Spirit of Democracy"</a> &mdash; <span class="outlet">The Wire, April 2019</span></li>
+  <li><a href="https://www.idfcinstitute.org/knowledge/publications/op-eds/narendra-modi-led-govt-made-some-radical-reforms-but-largely-lost-opportunity-for-dynamic-change/" target="_blank">"Narendra Modi led government made some radical reforms but lost out on dynamic change"</a> (with Kadambari Shah) &mdash; <span class="outlet">Firstpost, February 2019</span></li>
   <li>"Finance Ministry has a Poor Forecasting Record" &mdash; <span class="outlet">Mint, January 2019</span></li>
 </ul>
 
 <div class="writings-year">2018</div>
 <ul class="writings-list">
-  <li>"A New Vision for Election Manifestos" &mdash; <span class="outlet">Mint, November 2018</span></li>
+  <li>"A New Vision for Election Manifestos" (with Kadambari Shah) &mdash; <span class="outlet">Mint, November 2018</span></li>
   <li>"War and Peace in Economics" &mdash; <span class="outlet">Pragati, August 2018</span></li>
-  <li>"All Eyes on India's Biometric ID Experiment" &mdash; <span class="outlet">Pathways for Prosperity / University of Oxford, May 2018</span></li>
+  <li><a href="https://pathwayscommission.bsg.ox.ac.uk/blog/all-eyes-indias-biometric-id-experiment/" target="_blank">"All Eyes on India's Biometric ID Experiment"</a> &mdash; <span class="outlet">Pathways for Prosperity / University of Oxford, May 2018</span></li>
   <li>"The End of Accountability" &mdash; <span class="outlet">Pragati, February 2018</span></li>
 </ul>
 
@@ -317,13 +317,13 @@ layout: default
   <li>"Handle with Care" &mdash; <span class="outlet">Pragati, September 2017</span></li>
   <li>"Swachh Bharat Abhiyaan: An Ineffective Remedy" &mdash; <span class="outlet">Oxford Policy Blog, May 2017</span></li>
   <li>"Why don't we See Wrestlers from Tamil Nadu or Runners from Bihar and Haryana" &mdash; <span class="outlet">FirstPost, April 2017</span></li>
-  <li>"Is India Growing?" &mdash; <span class="outlet">Swarajya, March 2017</span></li>
+  <li><a href="https://swarajyamag.com/ideas/is-india-growing" target="_blank">"Is India Growing?"</a> (with Kadambari Shah) &mdash; <span class="outlet">Swarajya, March 2017</span></li>
 </ul>
 
 <div class="writings-year">2016</div>
 <ul class="writings-list">
   <li>"Looking East for Lessons on Labor" &mdash; <span class="outlet">The Hindu (thRead), September 2016</span></li>
-  <li>"Budget 2016: A Fiscal Perspective" &mdash; <span class="outlet">Swarajya Magazine, March 2016</span></li>
+  <li><a href="https://swarajyamag.com/economy/budget-2016-a-fiscal-perspective" target="_blank">"Budget 2016: A Fiscal Perspective"</a> &mdash; <span class="outlet">Swarajya Magazine, March 2016</span></li>
   <li>"Understanding Capital Reforms in China and Some Lessons for India" &mdash; <span class="outlet">Swarajya Magazine, February 2016</span></li>
   <li>"How Fiscal Targets will shape the Union Budget 2016" &mdash; <span class="outlet">Scroll, February 2016</span></li>
 </ul>
