@@ -277,15 +277,15 @@ layout: default
 
 <div class="writings-year">2020</div>
 <ul class="writings-list">
-  <li>"On Digital Governance, Don't Repeat Mistakes" &mdash; <span class="outlet">Hindustan Times, October 2020</span></li>
-  <li>"Community Data: More a River Than a Lake" (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, August 2020</span></li>
-  <li>"Urgent CSS reforms Needed" (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, June 2020</span></li>
-  <li>"Let the Economy Open. Don't Micromanage Lockdown Exit" &mdash; <span class="outlet">Times of India, May 2020</span></li>
-  <li>"RWAs play a crucial Role in deploying Community Testing" (with Vaidehi Tandel) &mdash; <span class="outlet">FirstPost, May 2020</span></li>
+  <li><a href="https://www.hindustantimes.com/analysis/on-digital-governance-don-t-repeat-mistakes/story-J7XLYEzESd2Vw5FSuBzBkO.html" target="_blank">"On Digital Governance, Don't Repeat Mistakes"</a> (with Sharmadha Srinivasan) &mdash; <span class="outlet">Hindustan Times, October 2020</span></li>
+  <li><a href="https://www.financialexpress.com/opinion/the-definitions-of-community-and-community-data-are-too-broad/2054456/" target="_blank">"Community Data: More a River Than a Lake"</a> (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, August 2020</span></li>
+  <li><a href="https://www.financialexpress.com/opinion/how-centrally-sponsored-schemes-becoming-a-hurdle-to-covid-19-fight/1991566/" target="_blank">"Urgent CSS reforms Needed"</a> (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, June 2020</span></li>
+  <li><a href="https://timesofindia.indiatimes.com/blogs/voices/let-the-economy-open-dont-micro-manage-lockdown-exit/" target="_blank">"Let the Economy Open. Don't Micromanage Lockdown Exit"</a> &mdash; <span class="outlet">Times of India, May 2020</span></li>
+  <li><a href="https://www.firstpost.com/health/coronavirus-outbreak-with-guidance-from-govt-rwas-can-play-a-crucial-role-in-deploying-community-testing-overseeing-quarantine-across-country-8345701.html" target="_blank">"RWAs play a crucial Role in deploying Community Testing"</a> (with Vaidehi Tandel) &mdash; <span class="outlet">FirstPost, May 2020</span></li>
   <li><a href="https://www.idfcinstitute.org/knowledge/publications/op-eds/relax-frbm-target-for-states-to-fight-covid-19/" target="_blank">"Relax FRBM Norms for States to Fight COVID-19"</a> (with Sharmadha Srinivasan) &mdash; <span class="outlet">Financial Express, May 2020</span></li>
-  <li>"Importance of Street Level Bureaucracy to Fight the Pandemic" (with Kadambari Shah) &mdash; <span class="outlet">Money Control, April 2020</span></li>
-  <li>"An Income Support Plan for the Poor to Tide over Testing Times" &mdash; <span class="outlet">Mint, March 2020</span></li>
-  <li>"Budget 2020: Reform Income Tax to Build Fiscal Capacity" &mdash; <span class="outlet">Money Control, January 2020</span></li>
+  <li><a href="https://www.moneycontrol.com/news/opinion/covid-19-importance-of-street-level-bureaucracy-to-fight-the-pandemic-5110951.html" target="_blank">"Importance of Street Level Bureaucracy to Fight the Pandemic"</a> (with Kadambari Shah) &mdash; <span class="outlet">Money Control, April 2020</span></li>
+  <li><a href="https://www.livemint.com/opinion/columns/an-income-support-plan-for-the-poor-to-tide-over-testing-times-11585069580543.html" target="_blank">"An Income Support Plan for the Poor to Tide over Testing Times"</a> (with Niranjan Rajadhyaksha) &mdash; <span class="outlet">Mint, March 2020</span></li>
+  <li><a href="https://www.moneycontrol.com/news/opinion/budget-2020-reform-income-tax-to-build-fiscal-capacity-that-pays-4881761.html" target="_blank">"Budget 2020: Reform Income Tax to Build Fiscal Capacity"</a> (with Sharmadha Srinivasan) &mdash; <span class="outlet">Money Control, January 2020</span></li>
   <li><a href="https://theprint.in/opinion/ayushman-bharat-can-be-a-success-if-modi-govt-incentivises-digital-data-for-private-players/353827/" target="_blank">"Ayushman Bharat can be a Success if Modi Government incentivises Data Use"</a> (with Alexander Fager) &mdash; <span class="outlet">The Print, January 2020</span></li>
   <li>"Keep up with Tech and Regulate Whatsapp and Amazon" &mdash; <span class="outlet">The Print, January 2020</span></li>
 </ul>
