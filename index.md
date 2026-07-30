@@ -293,12 +293,12 @@ layout: default
 <div class="writings-year">2019</div>
 <ul class="writings-list">
   <li><a href="https://www.business-standard.com/article/opinion/creating-jobs-with-infrastructure-investment-119100100018_1.html" target="_blank">"Creating Jobs through Infrastructure Investments"</a> (with Harshita Agrawal) &mdash; <span class="outlet">Business Standard, September 2019</span></li>
-  <li>"India should take Advantage of the US-China Trade-war" &mdash; <span class="outlet">Mint, September 2019</span></li>
+  <li><a href="https://www.livemint.com/opinion/columns/opinion-india-should-take-advantage-of-the-us-china-trade-war-1568964803219.html" target="_blank">"India should take Advantage of the US-China Trade-war"</a> (with Vivek Dehejia and Pravin Krishna) &mdash; <span class="outlet">Mint, September 2019</span></li>
   <li>"The Potential of Moving the National Capital" &mdash; <span class="outlet">Money Control, May 2019</span></li>
-  <li>"Indian Democracy Must Be More Representative" &mdash; <span class="outlet">Hindustan Times, April 2019</span></li>
+  <li><a href="https://www.hindustantimes.com/analysis/indian-democracy-must-be-more-representative/story-kbAdazKPhonQKs6nKJryiI.html" target="_blank">"Indian Democracy Must Be More Representative"</a> (with Reva Abrol) &mdash; <span class="outlet">Hindustan Times, April 2019</span></li>
   <li><a href="https://thewire.in/politics/election-2019-party-manifestos" target="_blank">"Unfulfilled Political Promises Weaken the Spirit of Democracy"</a> &mdash; <span class="outlet">The Wire, April 2019</span></li>
   <li><a href="https://www.idfcinstitute.org/knowledge/publications/op-eds/narendra-modi-led-govt-made-some-radical-reforms-but-largely-lost-opportunity-for-dynamic-change/" target="_blank">"Narendra Modi led government made some radical reforms but lost out on dynamic change"</a> (with Kadambari Shah) &mdash; <span class="outlet">Firstpost, February 2019</span></li>
-  <li>"Finance Ministry has a Poor Forecasting Record" &mdash; <span class="outlet">Mint, January 2019</span></li>
+  <li><a href="https://www.livemint.com/Politics/Ey6VRIMAozRK082XGruVbP/Finance-ministry-has-a-poor-forecasting-record.html" target="_blank">"Finance Ministry has a Poor Forecasting Record"</a> (with Sharmadha Srinivasan and Niranjan Rajadhyaksha) &mdash; <span class="outlet">Mint, January 2019</span></li>
 </ul>
 
 <div class="writings-year">2018</div>
