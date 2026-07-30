@@ -272,7 +272,7 @@ layout: default
   <li><a href="https://indianexpress.com/article/opinion/columns/linking-aadhaar-card-voter-id-7399406/" target="_blank">"Why Linking Aadhaar with Voter ID is a Dangerous Idea"</a> (with Vibhav Mariwala) &mdash; <span class="outlet">The Indian Express, July 2021</span></li>
   <li><a href="https://indianexpress.com/article/opinion/web-edits/revise-judges-appointment-process-to-build-judicial-capacity-7281976/" target="_blank">"Revise Judges Appointments to build Judicial Capacity"</a> (with Shreyas Narla) &mdash; <span class="outlet">The Indian Express, April 2021</span></li>
   <li>"Financing Institutions is crucial for the Digital Economy" &mdash; <span class="outlet">Data Governance Network Blog, February 2021</span></li>
-  <li>"Digitisation can help streamline government audits" (with Vibhav Mariwala) &mdash; <span class="outlet">Financial Express, January 2021</span></li>
+  <li><a href="https://www.financialexpress.com/opinion/ease-of-vetting-digitisation-can-help-streamline-govt-audits/2167356/" target="_blank">"Digitisation can help streamline government audits"</a> (with Vibhav Mariwala) &mdash; <span class="outlet">Financial Express, January 2021</span></li>
 </ul>
 
 <div class="writings-year">2020</div>
