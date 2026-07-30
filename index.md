@@ -315,7 +315,7 @@ layout: default
   <li>"Swachh Bharat Abhiyaan: successful yet unsuccessful" &mdash; <span class="outlet">News Laundry, December 2017</span></li>
   <li>"Jan Dhan Yojana: An Intriguing Work in Progress" &mdash; <span class="outlet">The Hindu (thRead), September 2017</span></li>
   <li>"Handle with Care" &mdash; <span class="outlet">Pragati, September 2017</span></li>
-  <li>"Swachh Bharat Abhiyaan: An Ineffective Remedy" &mdash; <span class="outlet">Oxford Policy Blog, May 2017</span></li>
+  <li><a href="https://oxfordindiapolicy.wordpress.com/2017/05/28/swachh-bharat-abhiyan-an-ineffective-remedy/" target="_blank">"Swachh Bharat Abhiyaan: An Ineffective Remedy"</a> (winning entry in student competition) &mdash; <span class="outlet">Oxford Policy Blog, May 2017</span></li>
   <li>"Why don't we See Wrestlers from Tamil Nadu or Runners from Bihar and Haryana" &mdash; <span class="outlet">FirstPost, April 2017</span></li>
   <li><a href="https://swarajyamag.com/ideas/is-india-growing" target="_blank">"Is India Growing?"</a> (with Kadambari Shah) &mdash; <span class="outlet">Swarajya, March 2017</span></li>
 </ul>
