@@ -287,7 +287,7 @@ layout: default
   <li><a href="https://www.livemint.com/opinion/columns/an-income-support-plan-for-the-poor-to-tide-over-testing-times-11585069580543.html" target="_blank">"An Income Support Plan for the Poor to Tide over Testing Times"</a> (with Niranjan Rajadhyaksha) &mdash; <span class="outlet">Mint, March 2020</span></li>
   <li><a href="https://www.moneycontrol.com/news/opinion/budget-2020-reform-income-tax-to-build-fiscal-capacity-that-pays-4881761.html" target="_blank">"Budget 2020: Reform Income Tax to Build Fiscal Capacity"</a> (with Sharmadha Srinivasan) &mdash; <span class="outlet">Money Control, January 2020</span></li>
   <li><a href="https://theprint.in/opinion/ayushman-bharat-can-be-a-success-if-modi-govt-incentivises-digital-data-for-private-players/353827/" target="_blank">"Ayushman Bharat can be a Success if Modi Government incentivises Data Use"</a> (with Alexander Fager) &mdash; <span class="outlet">The Print, January 2020</span></li>
-  <li>"Keep up with Tech and Regulate Whatsapp and Amazon" &mdash; <span class="outlet">The Print, January 2020</span></li>
+  <li><a href="https://theprint.in/opinion/to-keep-up-with-tech-regulate-whatsapp-amazon-india-must-adopt-futures-thinking/353277/" target="_blank">"Keep up with Tech and Regulate Whatsapp and Amazon"</a> (with Harsh Vardhan Pachisia) &mdash; <span class="outlet">The Print, January 2020</span></li>
 </ul>
 
 <div class="writings-year">2019</div>
